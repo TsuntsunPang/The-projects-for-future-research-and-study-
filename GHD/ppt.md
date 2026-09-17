@@ -8,8 +8,8 @@
 ## B. Doyon, Lecture Notes on Generalised Hydrodynamics, SciPost Phys. Lect. Notes 18(2020). 1912.08496
 ## https://scipost.org/SciPostPhysLectNotes.18
 ## F. H. L. Essler, A short introduction to Generalized Hydrodynamics, Physica A631 (2023)127572. 2306.17072
-##
+## https://arxiv.org/abs/2306.17072
 ## B. Doyon, S. Gopalakrishnan, F. Møller, J. Schmiedmayer, and R. Vaseur, Generalized hydrodynamics: a perspective, Phys. Rev. X15, 010501 (2025); 2311.03438
-## 
+## https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.010501
 ## Special issue on Quantum Integrability in Out of Equilibrium Systems, editors P. Calabrese, F.H.L. Essler and G. Mussardo, J. Stat. Mech. (2016) 064001.
 ## https://iopscience.iop.org/article/10.1088/1742-5468/2016/06/064001
