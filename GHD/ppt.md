@@ -6,7 +6,7 @@
 ## https://www.youtube.com/watch?v=TGAr2WeLT5s
 # Reviews on Generalised Hydrodynamics:
 ## B. Doyon, Lecture Notes on Generalised Hydrodynamics, SciPost Phys. Lect. Notes 18(2020). 1912.08496
-## 
-##
+## F. H. L. Essler, A short introduction to Generalized Hydrodynamics, Physica A631 (2023)127572. 2306.17072
+## B. Doyon, S. Gopalakrishnan, F. Møller, J. Schmiedmayer, and R. Vaseur, Generalized hydrodynamics: a perspective, Phys. Rev. X15, 010501 (2025); 2311.03438
 ##
 ## 
