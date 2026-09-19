@@ -6,6 +6,8 @@
 ## https://www.youtube.com/watch?v=TGAr2WeLT5s
 # Generalized hydrodynamics and BBGKY hierarchy - Bruno Bertini
 ## https://www.youtube.com/watch?v=UUiLlLkjDWE
+# Bruno Bertini: Out-of-Equilibrium Transport in Integrable Spin Chains
+## https://www.youtube.com/watch?v=n1NtdB9Dbmo
 # Reviews on Generalised Hydrodynamics:
 ## B. Doyon, Lecture Notes on Generalised Hydrodynamics, SciPost Phys. Lect. Notes 18(2020). 1912.08496
 ## https://scipost.org/SciPostPhysLectNotes.18
