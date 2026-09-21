@@ -9,5 +9,8 @@
 ### 3. The Bethe Ansatz to strongly correlated system such as the integrable BCS model(Gaudin magnets), Hubbard model and Kondo model.The Kondo model including the conventional Kondo model and Anderson model. And it generalization to multichannel Kondo and topological Kondo.
 ### 4. The Bethe Ansatz to field theory such as the Sine Gordon model.
 ### 5. From TBA to QTM and GHD. 
-### 6. The non-Hermitian integrable system
+### 6. The non-Hermitian integrable system.
 ### 7. Time-dependent integrable system.
+# 6 the generalized Temperley-Lieb algebra.
+# 7 The ASEP for three local states.
+# 8 the 2*2 LZ problem with the compete between the integrability and chaos.
