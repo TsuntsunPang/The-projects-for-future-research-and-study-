@@ -11,6 +11,6 @@
 ### 5. From TBA to QTM and GHD. 
 ### 6. The non-Hermitian integrable system.
 ### 7. Time-dependent integrable system.
-# 6 the generalized Temperley-Lieb algebra.
-# 7 The ASEP for three local states.
-# 8 the 2*2 LZ problem with the compete between the integrability and chaos.
+# 6. the generalized Temperley-Lieb algebra.
+# 7. The ASEP for three local states.
+# 8. the 2*2 LZ problem with the compete between the integrability and chaos.
