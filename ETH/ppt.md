@@ -6,3 +6,5 @@
 ## https://www.youtube.com/watch?v=3cX-nMLtOYg
 # Andrei Bogdan Bernevig - Exact Eigenstates in Non-Integrable Systems: A violation of the ETH
 ## https://www.youtube.com/watch?v=GmyU5HBLHTg&t=275s
+#  Quantum thermalization, Hydrodynamics and Gravity
+## https://indico.yukawa.kyoto-u.ac.jp/event/86/timetable/#20260601
