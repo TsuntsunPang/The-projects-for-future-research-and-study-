@@ -4,3 +4,5 @@
 ## https://indico.yukawa.kyoto-u.ac.jp/event/86/timetable/#20260601
 # International Workshop on "Challenges in Integrability"
 ## https://sciforum.net/event/iwiI
+# New directions in far from equilibrium integrability and beyond 
+## https://scgp.stonybrook.edu/video_portal/results.php?event_id=429
