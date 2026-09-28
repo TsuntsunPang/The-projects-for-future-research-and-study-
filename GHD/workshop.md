@@ -2,3 +2,5 @@
 ## https://indico.ictp.it/event/9377/speakers
 # Quantum thermalization, Hydrodynamics and Gravity
 ## https://indico.yukawa.kyoto-u.ac.jp/event/86/timetable/#20260601
+# International Workshop on "Challenges in Integrability"
+## https://sciforum.net/event/iwiI
