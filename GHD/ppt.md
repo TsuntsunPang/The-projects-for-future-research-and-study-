@@ -17,3 +17,5 @@
 ## https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.010501
 ## Special issue on Quantum Integrability in Out of Equilibrium Systems, editors P. Calabrese, F.H.L. Essler and G. Mussardo, J. Stat. Mech. (2016) 064001.
 ## https://iopscience.iop.org/article/10.1088/1742-5468/2016/06/064001
+## Jerome Dubail: "Introduction to Generalized Hydrodynamics in the Lieb-Liniger gas"
+## https://www.youtube.com/watch?v=4EbfyEjDqNg
